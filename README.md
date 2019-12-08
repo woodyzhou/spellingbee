@@ -1,6 +1,17 @@
 # Spelling Bee Train Tool
 
-Mac OS only.
+This is a simple shell tool for spelling bee training purpose. It is designed to pick word from
+a predefined list and pronounce with Mac OS voice one by one. Trainer has to manually compare
+trainee's spelling with the word printed on the console. 
+
+OS requirement: Mac OS
+
+## Command
+
+```
+$ ./spellingbee.sh COLUMN_IDX [SEQ|RANDOM]
+```
+
 
 ## Quick Start
 
