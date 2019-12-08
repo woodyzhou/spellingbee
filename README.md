@@ -1,4 +1,6 @@
-# spellingbee
+# Spelling Bee Train Tool
+
+Mac OS only.
 
 ## Quick Start
 
