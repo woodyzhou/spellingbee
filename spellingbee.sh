@@ -8,9 +8,9 @@ getc() {
 
 readword() {
 	if [ "$#" -gt 1 ] ; then
-		say -v "Samantha" -r $2 $1
+		say -v $VOICE -r $2 $1
 	else
-		say -v "Samantha" $1
+		say -v $VOICE $1
 	fi
 }
 
